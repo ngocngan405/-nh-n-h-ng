@@ -1,0 +1,12 @@
+{
+  "name": "Quản lý bán hàng",
+  "short_name": "Bán hàng",
+  "description": "Quản lý bán hàng, hóa đơn, sản phẩm và tồn kho",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6fa",
+  "theme_color": "#1769aa",
+  "icons": []
+}
